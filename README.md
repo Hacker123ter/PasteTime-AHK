@@ -13,7 +13,7 @@
 
 ## 🚀 Установка:
 
-- 😧 Установите <a href="url на jdk" target="_blank">JDK Version</a>.
+- 😧 Установите <a href="https://www.autohotkey.com/" target="_blank">Auto Hot Key (Ahk)</a>.
 - 🐈 Установите одну из двух версий программы, или <a href="https://github.com/Hacker123ter/PasteTime-AHK/blob/master/PasteTime.ahk" target="_blank">PasteTime.ahk</a> 
 - 🪄 Запустите файл.
 - ⏲️ Нажмите Ctrl+M.
